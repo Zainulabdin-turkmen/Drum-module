@@ -11,9 +11,20 @@ main {
     padding: 4.2rem;
 }
 
+.link-container {
+    /* display: flex; */
+    /* gap: 1rem; */
+    /* align-items: center; */
+}
 h1 {
-    margin: 0;
+    /* margin: 0; */
 }
 p {
-    font-size:  20px;
+    /* font-size:  20px; */
+}
+
+a {
+    /* font-size: 20px; */
+    /* color:  #406A29; */
+    /* text-decoration: none; */
 }
