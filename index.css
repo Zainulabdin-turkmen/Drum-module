@@ -60,7 +60,7 @@ p {
 
 .box:nth-of-type(2) {
     background-image: url('./dram-1.jpeg');
-    /* background-size: cover; */
+    background-size: cover;
 }
 .box:nth-of-type(1) {
 
