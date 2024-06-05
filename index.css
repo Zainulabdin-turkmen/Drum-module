@@ -11,6 +11,7 @@ main {
     padding: 4.2rem;
     display: flex;
     gap: 13.5rem;
+    border-radius: .8rem;
 }
 
 .link-container {
