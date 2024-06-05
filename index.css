@@ -16,7 +16,7 @@ main {
 
 .first-container {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     /* flex: .6; */
     /* height: 100%; */
 }
