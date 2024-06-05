@@ -17,7 +17,7 @@ main {
     align-items: center;
 }
 h1 {
-    margin: 0;
+    margin: 0;  
 }
 p {
     font-size:  20px;
@@ -28,3 +28,5 @@ a {
     color:  #406A29;
     text-decoration: none;
 }
+
+.
