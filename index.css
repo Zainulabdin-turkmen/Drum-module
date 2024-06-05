@@ -57,3 +57,15 @@ p {
     background-image: url('./dram-1.jpeg');
     background-size: cover;
 }
+
+.box:nth-of-type(2) {
+    background-image: url('./dram-1.jpeg');
+    /* background-size: cover; */
+}
+.box:nth-of-type(1) {
+
+}
+.box:nth-of-type(1) {
+    /* background-image: url('./dram-1.jpeg'); */
+    /* background-size: cover; */
+}
