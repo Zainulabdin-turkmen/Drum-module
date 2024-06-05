@@ -59,10 +59,10 @@ p {
 }
 
 .box:nth-of-type(2) {
-    background-image: url('./dram-1.jpeg');
+    background-image: url('./dram-2.jpeg');
     background-size: cover;
 }
-.box:nth-of-type(1) {
+.box:nth-of-type() {
 
 }
 .box:nth-of-type(1) {
