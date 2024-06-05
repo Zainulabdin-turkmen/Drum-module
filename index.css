@@ -24,7 +24,7 @@ a {
     display: flex;
     gap: 1rem;
     align-items: center;
-    /* text-decoration: none; */
+    text-decoration: none;
     /* color: green; */
     /* margin-top: auto; */
 }
