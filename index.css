@@ -9,6 +9,8 @@ main {
     width: 1200px;
     margin: 10rem auto;
     padding: 4.2rem;
+    display: flex;
+    /* gap: 7.5rem; */
 }
 
 .link-container {
@@ -18,7 +20,7 @@ main {
 }
 h1 {
     margin: 0;  
-    font-weight: 400;
+    /* font-weight: 400; */
 }
 p {
     font-size:  20px;
@@ -31,5 +33,14 @@ a {
 }
 
 .second-container {
-    display: flex;   
+    /* display: flex;   */
+    /* flex: 1;  */
+    /* gap: 2rem; */
+}
+
+.box {
+    /* background-color: green; */
+    /* aspect-ratio: 1/1; */
+    /* width: 22px; */
+
 }
