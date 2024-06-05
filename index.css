@@ -68,3 +68,6 @@ p {
 .box:nth-of-type(4) {
     background-color:  #fff;
 }
+.box:nth-of-type(5) {
+    background-color: #BBC8E1;
+}
