@@ -10,7 +10,7 @@ main {
     margin: 10rem auto;
     padding: 4.2rem;
     display: flex;
-    /* gap: 7.5rem; */
+    gap: 7.5rem;
 }
 
 .link-container {
