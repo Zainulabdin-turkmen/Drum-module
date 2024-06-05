@@ -52,3 +52,8 @@ p {
     border-radius: .5rem;
 
 }
+
+.box:nth-of-type(1) {
+    background-image: url('./dram-1.jpeg');
+    background-size: cover;
+}
