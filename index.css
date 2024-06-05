@@ -30,4 +30,6 @@ a {
     text-decoration: none;
 }
 
-.
+.second-container {
+    display: flex;   
+}
