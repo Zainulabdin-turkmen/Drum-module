@@ -12,7 +12,7 @@ main {
     display: flex;
     gap: 13.5rem;
     border-radius: .8rem;
-    flex-direction: column;
+    /* flex-direction: column; */
 }
 
 .first-container {
