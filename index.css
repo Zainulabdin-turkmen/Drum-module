@@ -9,9 +9,10 @@ main {
     width: 100%;
     margin: 10rem auto;
     padding-left: 2rem;
+    padding-right: 2rem;
     display: flex;
     box-sizing: border-box;
-    gap: 13.5rem;
+    /* gap: 13.5rem; */
     border-radius: 8px;
     flex-direction: column;
 }
