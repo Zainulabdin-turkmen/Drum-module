@@ -72,6 +72,7 @@ p {
 }
 .box:nth-of-type(5) {
     background-color: #BBC8E1;
+    display: none;
 }
 .box:nth-of-type(6) {
     background-image: url('./dram-3.jpeg');
