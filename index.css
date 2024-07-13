@@ -44,7 +44,7 @@ p {
 
 
 .second-container {
-    display: flex;  
+    display: grid;  
     flex: 1; 
     flex-wrap: wrap;
     gap: 1rem;
