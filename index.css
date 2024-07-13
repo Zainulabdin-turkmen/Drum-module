@@ -104,6 +104,7 @@ p {
     main {
         flex-direction: row;
         padding: 4rem;
+        gap: 8.4rem;
 
     }
     .second-container {
