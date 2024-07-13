@@ -73,18 +73,27 @@ p {
     background-color: #D0E1BB;
 }
 .box:nth-of-type(4) {
-    background-image: url('./dram-3.jpeg');
-    background-size: cover;
+    background-color:  #fff;
+    display: none;
 }
 .box:nth-of-type(5) {
     background-color: #BBC8E1;
     display: none;
 }
 .box:nth-of-type(6) {
-    background-color:  #fff;
-    display: none;
+    background-size: cover;
+    background-image: url('./dram-3.jpeg');
 }
 
 @media only  screen and (min-width: 800px) {
-    
+    .second-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .box:nth-of-type(4) {
+        display: block;
+    }
+    .box:nth-of-type(5) {
+        display: block;
+    }
+
 }
