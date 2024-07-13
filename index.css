@@ -12,7 +12,7 @@ main {
     display: flex;
     box-sizing: border-box;
     gap: 13.5rem;
-    border-radius: .8rem;
+    border-radius: 8px;
     flex-direction: column;
 }
 
