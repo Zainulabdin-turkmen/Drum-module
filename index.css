@@ -71,13 +71,14 @@ p {
     background-color: #D0E1BB;
 }
 .box:nth-of-type(4) {
-    background-color:  #fff;
+    background-image: url('./dram-3.jpeg');
+    background-size: cover;
 }
 .box:nth-of-type(5) {
     background-color: #BBC8E1;
     display: none;
 }
 .box:nth-of-type(6) {
-    background-image: url('./dram-3.jpeg');
-    background-size: cover;
+    background-color:  #fff;
+    display: none;
 }
