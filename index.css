@@ -96,4 +96,8 @@ p {
         display: block;
     }
 
+    main {
+        padding: 4rem;
+    }
+    
 }
