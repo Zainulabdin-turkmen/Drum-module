@@ -10,6 +10,7 @@ main {
     margin: 10rem auto;
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-bottom: 6.5rem;
     display: flex;
     box-sizing: border-box;
     /* gap: 13.5rem; */
